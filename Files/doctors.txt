@@ -1,0 +1,3 @@
+doctor1;1234;00000001;Name1;Surname1;0001,0003;
+doctor2;1234;00000002;Name2;Surname2;0001;
+doctor3;1234;00000003;Name3;Surname3;0003;
